@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [3870-count-commas-in-range](https://github.com/santhosh18v/DSA/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/santhosh18v/DSA/tree/master/0940-distinct-subsequences-ii) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
