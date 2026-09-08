@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/santhosh18v/DSA/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/santhosh18v/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
