@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/santhosh18v/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
+| [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/santhosh18v/DSA/tree/master/0027-remove-element) |
+| [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/santhosh18v/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhosh18v/DSA/tree/master/0242-valid-anagram) |
+| [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
