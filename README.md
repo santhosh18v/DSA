@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/santhosh18v/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/santhosh18v/DSA/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
