@@ -6,11 +6,10 @@ class Solution {
         for(int i=0;i<s.length();i++){
             if(Character.isDigit(s.charAt(i))){
                 int digit=s.charAt(i)-'0';
-                if(set.contains(digit)){
-                    continue;
+                if(!set.contains(digit)){
+                    set.add(digit);
 
                 }
-                set.add(digit);
                 if(digit>largest){
                     secondLargest=largest;
                     largest=digit;
