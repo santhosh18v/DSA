@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/santhosh18v/DSA/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/santhosh18v/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/santhosh18v/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/santhosh18v/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santhosh18v/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santhosh18v/DSA/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/santhosh18v/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/santhosh18v/DSA/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
