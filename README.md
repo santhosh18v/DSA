@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/santhosh18v/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/santhosh18v/DSA/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/santhosh18v/DSA/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/santhosh18v/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
