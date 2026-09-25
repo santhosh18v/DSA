@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/santhosh18v/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/santhosh18v/DSA/tree/master/0485-max-consecutive-ones) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/santhosh18v/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh18v/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/santhosh18v/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/santhosh18v/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhosh18v/DSA/tree/master/0242-valid-anagram) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/santhosh18v/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
