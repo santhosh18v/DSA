@@ -6,6 +6,7 @@ class Solution {
         for(int i=0;i<n;i++){
             expected[i]=heights[i];
         }
+        /*
         for(int i=0;i<n;i++){
             for(int j=0;j<n-1-i;j++){
                 if(expected[j]>expected[j+1]){
@@ -15,6 +16,8 @@ class Solution {
                 }
             }
         }
+        */
+        Arrays.sort(expected);
         
         for(int i=0;i<n;i++){
             if(heights[i]!=expected[i]){
