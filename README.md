@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/santhosh18v/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/santhosh18v/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/santhosh18v/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/santhosh18v/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh18v/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/santhosh18v/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/santhosh18v/DSA/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/santhosh18v/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhosh18v/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/santhosh18v/DSA/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/santhosh18v/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/santhosh18v/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/santhosh18v/DSA/tree/master/1051-height-checker) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/santhosh18v/DSA/tree/master/1051-height-checker) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
