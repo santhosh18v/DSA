@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/santhosh18v/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/santhosh18v/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/santhosh18v/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/santhosh18v/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/santhosh18v/DSA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/santhosh18v/DSA/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh18v/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
