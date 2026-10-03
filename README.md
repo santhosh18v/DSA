@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhosh18v/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/santhosh18v/DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhosh18v/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/santhosh18v/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/santhosh18v/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santhosh18v/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/santhosh18v/DSA/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhosh18v/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/santhosh18v/DSA/tree/master/0283-move-zeroes) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/santhosh18v/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/santhosh18v/DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhosh18v/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh18v/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
