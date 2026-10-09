@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/santhosh18v/DSA/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/santhosh18v/DSA/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/santhosh18v/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/santhosh18v/DSA/tree/master/3870-count-commas-in-range) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhosh18v/DSA/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/santhosh18v/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/santhosh18v/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/santhosh18v/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/santhosh18v/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/santhosh18v/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/santhosh18v/DSA/tree/master/0905-sort-array-by-parity) |
@@ -261,4 +264,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/santhosh18v/DSA/tree/master/0645-set-mismatch) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
