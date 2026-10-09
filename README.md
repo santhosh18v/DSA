@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/santhosh18v/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/santhosh18v/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/santhosh18v/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/santhosh18v/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/santhosh18v/DSA/tree/master/3798-largest-even-number) |
 ## Stack
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/santhosh18v/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/santhosh18v/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh18v/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/santhosh18v/DSA/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
