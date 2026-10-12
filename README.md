@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/santhosh18v/DSA/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/santhosh18v/DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/santhosh18v/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/santhosh18v/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/santhosh18v/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/santhosh18v/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/santhosh18v/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/santhosh18v/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/santhosh18v/DSA/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/santhosh18v/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/santhosh18v/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/santhosh18v/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
