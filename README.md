@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santhosh18v/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santhosh18v/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/santhosh18v/DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/santhosh18v/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/santhosh18v/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/santhosh18v/DSA/tree/master/0162-find-peak-element) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/santhosh18v/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/santhosh18v/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/santhosh18v/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
