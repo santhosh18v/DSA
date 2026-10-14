@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/santhosh18v/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/santhosh18v/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/santhosh18v/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/santhosh18v/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/santhosh18v/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/santhosh18v/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/santhosh18v/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/santhosh18v/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/santhosh18v/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/santhosh18v/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/santhosh18v/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/santhosh18v/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/santhosh18v/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh18v/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/santhosh18v/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/santhosh18v/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/santhosh18v/DSA/tree/master/0645-set-mismatch) |
 ## Minimax
 |  |
@@ -306,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/santhosh18v/DSA/tree/master/0739-daily-temperatures) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
