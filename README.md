@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/santhosh18v/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/santhosh18v/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/santhosh18v/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/santhosh18v/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/santhosh18v/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/santhosh18v/DSA/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/santhosh18v/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/santhosh18v/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/santhosh18v/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/santhosh18v/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3866-first-unique-even-element](https://github.com/santhosh18v/DSA/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
@@ -318,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/santhosh18v/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/santhosh18v/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
