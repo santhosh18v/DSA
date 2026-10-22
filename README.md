@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/santhosh18v/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/santhosh18v/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/santhosh18v/DSA/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/santhosh18v/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/santhosh18v/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/santhosh18v/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/santhosh18v/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/santhosh18v/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/santhosh18v/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/santhosh18v/DSA/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/santhosh18v/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/santhosh18v/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/santhosh18v/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/santhosh18v/DSA/tree/master/1796-second-largest-digit-in-a-string) |
