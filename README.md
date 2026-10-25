@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/santhosh18v/DSA/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/santhosh18v/DSA/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/santhosh18v/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/santhosh18v/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/santhosh18v/DSA/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/santhosh18v/DSA/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
