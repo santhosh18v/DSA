@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/santhosh18v/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/santhosh18v/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/santhosh18v/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/santhosh18v/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/santhosh18v/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/santhosh18v/DSA/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/santhosh18v/DSA/tree/master/0836-rectangle-overlap) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/santhosh18v/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/santhosh18v/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/santhosh18v/DSA/tree/master/0326-power-of-three) |
 ## Heap (Priority Queue)
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/santhosh18v/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/santhosh18v/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/santhosh18v/DSA/tree/master/0645-set-mismatch) |
 ## Minimax
