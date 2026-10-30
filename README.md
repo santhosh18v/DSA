@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/santhosh18v/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/santhosh18v/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/santhosh18v/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/santhosh18v/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/santhosh18v/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/santhosh18v/DSA/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/santhosh18v/DSA/tree/master/0856-score-of-parentheses) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/santhosh18v/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/santhosh18v/DSA/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/santhosh18v/DSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/santhosh18v/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/santhosh18v/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Array
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/santhosh18v/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/santhosh18v/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/santhosh18v/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/santhosh18v/DSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/santhosh18v/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/santhosh18v/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/santhosh18v/DSA/tree/master/0905-sort-array-by-parity) |
