@@ -10,8 +10,6 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        /*
-               // Brute Force 
         Stack<ListNode> stack=new Stack<>();
         if(head==null){
             return null;
@@ -29,18 +27,6 @@ class Solution {
         }
         current.next=null;
         return newHead;
-
-        */
-        ListNode prev=null;
-        ListNode cur=head;
-        ListNode next;
-        while(cur!=null){
-            next=cur.next;
-            cur.next=prev;
-            prev=cur;
-            cur=next;
-
-        }
-        return prev;
+        
     }
 }
